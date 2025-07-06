@@ -1,0 +1,10 @@
+flask
+flask-cors
+pytesseract
+Pillow
+beautifulsoup4
+requests 
+gunicorn
+opencv-python-headless
+pytesseract
+Pillow
